@@ -1,12 +1,12 @@
 Introduction:
   In Project Pacman 1, Pacman agent will seek paths from maze world in order to arrive at a certain destination and eat food efficiently. General search algorithms are implemented in order to fullfill different kind of Pacman scenarios.
 
-
+———————————————————————————————————————————
 Main files to look at under Pacman 1 Folder:
   1. search.py: Where contains all the search algorithms.
   2. searchAgents.py: Where contains all the search-based agents.
 
-
+———————————————————————————————————————————
 How to compile and run code:
   1. Download entire Pacman 1 folder
   2. Open terminal and set the path to where the source code is located at 
