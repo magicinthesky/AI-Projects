@@ -3,8 +3,8 @@ Introduction:
 
 ———————————————————————————————————————————
 Main files to look at under Pacman 1 Folder:
-  1. search.py: Where contains all the search algorithms.
-  2. searchAgents.py: Where contains all the search-based agents.
+  1. search.py: contains all the search algorithms.
+  2. searchAgents.py: contains all the search-based agents.
 
 ———————————————————————————————————————————
 How to compile and run code:
