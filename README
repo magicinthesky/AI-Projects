@@ -1,5 +1,5 @@
 Introduction:
-  In Project Pacman 1, Pacman agent will seek paths from maze world in order to arrive at a certain destination and eat food efficiently. General search algorithms are implemented in order to fullfill different kind of Pacman scenarios.
+  In Project Pacman 1, Pacman agent will seek paths from maze world in order to arrive at a certain destination and eat food efficiently. General search algorithms are implemented in order to fulfill different kind of Pacman scenarios.
 
 ———————————————————————————————————————————
 Main files to look at under Pacman 1 Folder:
