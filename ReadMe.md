@@ -1,5 +1,5 @@
 # Introduction:  
-### In Project Pacman 1, Pacman agent will search paths from maze to arrive at a certain destination and collect food efficiently. General search algorithms are implemented in order to fulfill different kinds of Pacman scenarios.
+### *In Project Pacman 1, Pacman agent will search paths from maze to arrive at a certain destination and collect food efficiently. General search algorithms are implemented in order to fulfill different kinds of Pacman scenarios.*
 
 ------
 **Main files to look at under Pacman 1 Folder**:   
